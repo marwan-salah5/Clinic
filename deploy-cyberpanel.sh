@@ -1,4 +1,4 @@
-#!/bin/bash
+f#!/bin/bash
 
 # Clinic System - CyberPanel Deployment Script
 # This script updates the Laravel application from GitHub
